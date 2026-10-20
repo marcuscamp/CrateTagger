@@ -1,0 +1,4 @@
+mutagen
+requests
+pyacoustid
+python-dotenv
